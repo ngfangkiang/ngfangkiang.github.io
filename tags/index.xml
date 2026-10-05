@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Ng Fang Kiang</title>
+    <link>https://ngfangkiang.github.io/tags/</link>
+    <description>Recent content in Tags on Ng Fang Kiang</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Oct 2026 07:22:49 +0800</lastBuildDate>
+    <atom:link href="https://ngfangkiang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://ngfangkiang.github.io/tags/ai/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://ngfangkiang.github.io/tags/automation/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>https://ngfangkiang.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Future</title>
+      <link>https://ngfangkiang.github.io/tags/future/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/future/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT</title>
+      <link>https://ngfangkiang.github.io/tags/mit/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/mit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflections</title>
+      <link>https://ngfangkiang.github.io/tags/reflections/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/reflections/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://ngfangkiang.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Driving Cars</title>
+      <link>https://ngfangkiang.github.io/tags/self-driving-cars/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/self-driving-cars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://ngfangkiang.github.io/tags/tech/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Udacity</title>
+      <link>https://ngfangkiang.github.io/tags/udacity/</link>
+      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/udacity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://ngfangkiang.github.io/tags/first/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://ngfangkiang.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
