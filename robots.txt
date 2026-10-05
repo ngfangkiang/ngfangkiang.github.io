@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ngfangkiang.github.io/sitemap.xml
+Sitemap: https://fangkiang.com/sitemap.xml

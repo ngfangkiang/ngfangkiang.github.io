@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Ng Fang Kiang</title>
-    <link>https://ngfangkiang.github.io/</link>
+    <link>https://fangkiang.com/</link>
     <description>Recent content on Ng Fang Kiang</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Oct 2026 10:25:26 +0800</lastBuildDate>
-    <atom:link href="https://ngfangkiang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://fangkiang.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I Started This Blog</title>
-      <link>https://ngfangkiang.github.io/why/</link>
+      <link>https://fangkiang.com/why/</link>
       <pubDate>Sun, 04 Oct 2026 10:25:26 +0800</pubDate>
-      <guid>https://ngfangkiang.github.io/why/</guid>
+      <guid>https://fangkiang.com/why/</guid>
       <description>&lt;p&gt;Starting this blog isn&amp;rsquo;t just about putting words on a screen—it&amp;rsquo;s a deliberate choice to build a space that serves my long-term personal and professional growth.&lt;/p&gt;
 &lt;p&gt;Here is why I&amp;rsquo;m taking the time to build and maintain this blog:&lt;/p&gt;
 &lt;h3 id=&#34;1-documenting-my-life--journey&#34;&gt;1. Documenting My Life &amp;amp; Journey&lt;/h3&gt;
@@ -20,18 +20,18 @@
     </item>
     <item>
       <title>Credits</title>
-      <link>https://ngfangkiang.github.io/credits/</link>
+      <link>https://fangkiang.com/credits/</link>
       <pubDate>Sun, 04 Oct 2026 09:18:32 +0800</pubDate>
-      <guid>https://ngfangkiang.github.io/credits/</guid>
+      <guid>https://fangkiang.com/credits/</guid>
       <description>&lt;p&gt;This blog is built with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and powered by a custom fork of the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;
 &lt;p&gt;I forked PaperMod to accelerate initial development while allowing complete flexibility for custom tweaks and future feature additions.&lt;/p&gt;
 &lt;p&gt;Special thanks to the open-source creators and contributors behind Hugo and PaperMod!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Work</title>
-      <link>https://ngfangkiang.github.io/work/</link>
+      <link>https://fangkiang.com/work/</link>
       <pubDate>Sun, 04 Oct 2026 09:11:35 +0800</pubDate>
-      <guid>https://ngfangkiang.github.io/work/</guid>
+      <guid>https://fangkiang.com/work/</guid>
       <description>&lt;h3 id=&#34;lead-product-manager--founder&#34;&gt;Lead Product Manager &amp;amp; Founder&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Jorcus&lt;/strong&gt; · &lt;em&gt;Jun 2018 – Aug 2024 (6 yrs 3 mos)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Bootstrapped a 0-to-1 global online platform connecting digital nomads and remote workers worldwide. Served as sole owner across product strategy, engineering, and growth.&lt;/p&gt;
@@ -45,9 +45,9 @@
     </item>
     <item>
       <title>Looking Back at My 2021 Tech Predictions: How the Future Arrived Right on Schedule</title>
-      <link>https://ngfangkiang.github.io/posts/looking_back_at_my_2021_tech_predictions/</link>
+      <link>https://fangkiang.com/posts/looking_back_at_my_2021_tech_predictions/</link>
       <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
-      <guid>https://ngfangkiang.github.io/posts/looking_back_at_my_2021_tech_predictions/</guid>
+      <guid>https://fangkiang.com/posts/looking_back_at_my_2021_tech_predictions/</guid>
       <description>&lt;p&gt;Back in December 2021, I wrote a post outlining what I believed the world and the tech landscape would look like over the next five years. Looking around today in &lt;strong&gt;2026&lt;/strong&gt;, it’s fascinating—and deeply satisfying—to see how many of those predictions have shifted from bold foresight into everyday reality.&lt;/p&gt;
 &lt;p&gt;Here is a look back at what I wrote in 2021, alongside how those trends have actually played out:&lt;/p&gt;
 &lt;hr&gt;
@@ -82,9 +82,9 @@
     </item>
     <item>
       <title>My Journey with MIT DeepTraffic: Ranking #1 and Winning the Udacity Self-Driving Car Scholarship</title>
-      <link>https://ngfangkiang.github.io/posts/mit-deeptraffic-first-place-udacity/</link>
+      <link>https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/</link>
       <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
-      <guid>https://ngfangkiang.github.io/posts/mit-deeptraffic-first-place-udacity/</guid>
+      <guid>https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/</guid>
       <description>&lt;p&gt;Back in early 2017, I had the incredible opportunity to participate in MIT’s &lt;strong&gt;6.S094: Deep Learning for Self-Driving Cars&lt;/strong&gt; competition—&lt;strong&gt;DeepTraffic&lt;/strong&gt;. It was an exhilarating experience that marked a significant milestone in my journey with AI and autonomous driving technology.&lt;/p&gt;
 &lt;h2 id=&#34;leaderboard-achievements&#34;&gt;Leaderboard Achievements&lt;/h2&gt;
 &lt;table&gt;
@@ -96,8 +96,8 @@
 	&lt;/thead&gt;
 	&lt;tbody&gt;
 			&lt;tr&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;DeepTraffic 1.0 Leaderboard&#34; loading=&#34;lazy&#34; src=&#34;https://ngfangkiang.github.io/images/screenshot/DeepTrafficLeaderboard1.0.png&#34;&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;DeepTraffic 1.1 Leaderboard&#34; loading=&#34;lazy&#34; src=&#34;https://ngfangkiang.github.io/images/screenshot/DeepTrafficLeaderboard1.1.png&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;DeepTraffic 1.0 Leaderboard&#34; loading=&#34;lazy&#34; src=&#34;https://fangkiang.com/images/screenshot/DeepTrafficLeaderboard1.0.png&#34;&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;DeepTraffic 1.1 Leaderboard&#34; loading=&#34;lazy&#34; src=&#34;https://fangkiang.com/images/screenshot/DeepTrafficLeaderboard1.1.png&#34;&gt;&lt;/td&gt;
 			&lt;/tr&gt;
 	&lt;/tbody&gt;
 &lt;/table&gt;
@@ -106,16 +106,16 @@
     </item>
     <item>
       <title>That Time NVIDIA AI Followed 135 Accounts on Instagram - And I Was One of Them</title>
-      <link>https://ngfangkiang.github.io/posts/nvidia-ai-followed-my-instagram/</link>
+      <link>https://fangkiang.com/posts/nvidia-ai-followed-my-instagram/</link>
       <pubDate>Sun, 04 Oct 2026 07:22:44 +0800</pubDate>
-      <guid>https://ngfangkiang.github.io/posts/nvidia-ai-followed-my-instagram/</guid>
+      <guid>https://fangkiang.com/posts/nvidia-ai-followed-my-instagram/</guid>
       <description>&lt;p&gt;Back in July 2017, when &lt;a href=&#34;https://www.instagram.com/nvidiaai/&#34;&gt;NVIDIA AI (@nvidiaai)&lt;/a&gt; launched its official Instagram account, something completely unexpected happened: they followed my personal account.&lt;/p&gt;
 &lt;p&gt;At the time, @nvidiaai was right at its inception with only a few dozen followers. I was going by my handle &lt;code&gt;@jorcus96&lt;/code&gt;, and seeing an official account from a tech giant pop up in my notifications felt completely surreal.&lt;/p&gt;
 &lt;table&gt;
 	&lt;thead&gt;
 			&lt;tr&gt;
-					&lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;NVIDIA AI Instagram Profile&#34; loading=&#34;lazy&#34; src=&#34;https://ngfangkiang.github.io/images/screenshot/Screenshot_20190615-152233_Instagram-nvidiaai.jpg&#34;&gt;&lt;/th&gt;
-					&lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;NVIDIA AI Following List including jorcus96&#34; loading=&#34;lazy&#34; src=&#34;https://ngfangkiang.github.io/images/screenshot/Screenshot_20190615-152206_Instagram-nvidiaai.jpg&#34;&gt;&lt;/th&gt;
+					&lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;NVIDIA AI Instagram Profile&#34; loading=&#34;lazy&#34; src=&#34;https://fangkiang.com/images/screenshot/Screenshot_20190615-152233_Instagram-nvidiaai.jpg&#34;&gt;&lt;/th&gt;
+					&lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;NVIDIA AI Following List including jorcus96&#34; loading=&#34;lazy&#34; src=&#34;https://fangkiang.com/images/screenshot/Screenshot_20190615-152206_Instagram-nvidiaai.jpg&#34;&gt;&lt;/th&gt;
 			&lt;/tr&gt;
 	&lt;/thead&gt;
 	&lt;tbody&gt;
@@ -125,9 +125,9 @@
     </item>
     <item>
       <title>My 1st post</title>
-      <link>https://ngfangkiang.github.io/post/</link>
+      <link>https://fangkiang.com/post/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://ngfangkiang.github.io/post/</guid>
+      <guid>https://fangkiang.com/post/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
