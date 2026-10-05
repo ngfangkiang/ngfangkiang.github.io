@@ -65,7 +65,13 @@
       <link>https://fangkiang.com/projects/</link>
       <pubDate>Sun, 04 Oct 2026 09:11:35 +0800</pubDate>
       <guid>https://fangkiang.com/projects/</guid>
-      <description>&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;programming-a-real-self-driving-car-team-project&#34;&gt;Programming a Real Self-Driving Car (Team Project)&lt;/h2&gt;
+&lt;p&gt;Our team implemented key functionalities like perception (object detection, traffic light recognition), planning (path planning, behavioral decision making), and control (steering, throttle control) using ROS, Python, and C++.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin-top: 1rem; margin-bottom: 2rem;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/BEYpU2B77bE&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;&#34; allowfullscreen title=&#34;Programming a Real Self-Driving Car&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Team Members:&lt;/strong&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/antonpechenko/&#34;&gt;Anton Pechenko&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/kai-detlefsen/&#34;&gt;Kai Detlefsen&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/andrew-ayers-31182925/&#34;&gt;Andrew Ayers&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/muddassir35&#34;&gt;Muddassir Ahmed Khan&lt;/a&gt;, Ng Fang Kiang (Me)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Work</title>
