@@ -32,8 +32,9 @@
       <pubDate>Sun, 04 Oct 2026 09:18:32 +0800</pubDate>
       <guid>https://fangkiang.com/credits/</guid>
       <description>&lt;p&gt;This blog is built with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and powered by a custom fork of the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;
-&lt;p&gt;I forked PaperMod to accelerate initial development while allowing complete flexibility for custom tweaks and future feature additions.&lt;/p&gt;
-&lt;p&gt;Special thanks to the open-source creators and contributors behind Hugo and PaperMod!&lt;/p&gt;</description>
+&lt;p&gt;I forked PaperMod on October 4, 2026, to avoid reinventing the wheel and speed up initial development.&lt;/p&gt;
+&lt;p&gt;I have refactored the codebase to make it a completely custom configuration, specifically for my personal website.&lt;/p&gt;
+&lt;p&gt;Huge thanks to the open-source creators and contributors behind Hugo and PaperMod!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hobbies &amp; Passions</title>
@@ -127,7 +128,7 @@
 &lt;p&gt;As I noted back in 2021: &lt;em&gt;&amp;ldquo;The future is not something to be feared, but something to be embraced.&amp;rdquo;&lt;/em&gt; Seeing these shifts materialize over the last five years reinforces that technology moves fast, but clear trajectory markers are almost always visible if we look closely enough.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My Journey with MIT DeepTraffic: Ranking #1 and Winning the Udacity Self-Driving Car Scholarship</title>
+      <title>My Journey with MIT DeepTraffic: Ranking #1 and Winning the Udacity Self-Driving Car Tuition Waiver</title>
       <link>https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/</link>
       <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
       <guid>https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/</guid>

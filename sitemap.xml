@@ -2,13 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fangkiang.com/tags/c&#43;&#43;/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://fangkiang.com/tags/computer-vision/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://fangkiang.com/tags/deep-learning/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
     <loc>https://fangkiang.com/</loc>
     <lastmod>2026-10-06T03:13:13+08:00</lastmod>
   </url><url>
     <loc>https://fangkiang.com/posts/</loc>
     <lastmod>2026-10-06T03:13:13+08:00</lastmod>
   </url><url>
+    <loc>https://fangkiang.com/tags/robotics/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://fangkiang.com/tags/self-driving-cars/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://fangkiang.com/tags/self-taught/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://fangkiang.com/tags/sensor-fusion/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://fangkiang.com/tags/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
     <loc>https://fangkiang.com/posts/the-hardest-online-course-i-ever-took/</loc>
+    <lastmod>2026-10-06T03:13:13+08:00</lastmod>
+  </url><url>
+    <loc>https://fangkiang.com/tags/udacity/</loc>
     <lastmod>2026-10-06T03:13:13+08:00</lastmod>
   </url><url>
     <loc>https://fangkiang.com/why/</loc>
@@ -32,9 +59,6 @@
     <loc>https://fangkiang.com/tags/automation/</loc>
     <lastmod>2026-10-04T07:22:49+08:00</lastmod>
   </url><url>
-    <loc>https://fangkiang.com/tags/deep-learning/</loc>
-    <lastmod>2026-10-04T07:22:49+08:00</lastmod>
-  </url><url>
     <loc>https://fangkiang.com/tags/future/</loc>
     <lastmod>2026-10-04T07:22:49+08:00</lastmod>
   </url><url>
@@ -53,16 +77,7 @@
     <loc>https://fangkiang.com/tags/reinforcement-learning/</loc>
     <lastmod>2026-10-04T07:22:49+08:00</lastmod>
   </url><url>
-    <loc>https://fangkiang.com/tags/self-driving-cars/</loc>
-    <lastmod>2026-10-04T07:22:49+08:00</lastmod>
-  </url><url>
-    <loc>https://fangkiang.com/tags/</loc>
-    <lastmod>2026-10-04T07:22:49+08:00</lastmod>
-  </url><url>
     <loc>https://fangkiang.com/tags/tech/</loc>
-    <lastmod>2026-10-04T07:22:49+08:00</lastmod>
-  </url><url>
-    <loc>https://fangkiang.com/tags/udacity/</loc>
     <lastmod>2026-10-04T07:22:49+08:00</lastmod>
   </url><url>
     <loc>https://fangkiang.com/posts/nvidia-ai-followed-my-instagram/</loc>

@@ -6,8 +6,64 @@
     <description>Recent content in Tags on Ng Fang Kiang</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Oct 2026 07:22:49 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 03:13:13 +0800</lastBuildDate>
     <atom:link href="https://fangkiang.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://fangkiang.com/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
+      <guid>https://fangkiang.com/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Computer Vision</title>
+      <link>https://fangkiang.com/tags/computer-vision/</link>
+      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
+      <guid>https://fangkiang.com/tags/computer-vision/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>https://fangkiang.com/tags/deep-learning/</link>
+      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
+      <guid>https://fangkiang.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Robotics</title>
+      <link>https://fangkiang.com/tags/robotics/</link>
+      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
+      <guid>https://fangkiang.com/tags/robotics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Driving Cars</title>
+      <link>https://fangkiang.com/tags/self-driving-cars/</link>
+      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
+      <guid>https://fangkiang.com/tags/self-driving-cars/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Taught</title>
+      <link>https://fangkiang.com/tags/self-taught/</link>
+      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
+      <guid>https://fangkiang.com/tags/self-taught/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sensor Fusion</title>
+      <link>https://fangkiang.com/tags/sensor-fusion/</link>
+      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
+      <guid>https://fangkiang.com/tags/sensor-fusion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Udacity</title>
+      <link>https://fangkiang.com/tags/udacity/</link>
+      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
+      <guid>https://fangkiang.com/tags/udacity/</guid>
+      <description></description>
+    </item>
     <item>
       <title>AI</title>
       <link>https://fangkiang.com/tags/ai/</link>
@@ -20,13 +76,6 @@
       <link>https://fangkiang.com/tags/automation/</link>
       <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
       <guid>https://fangkiang.com/tags/automation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Deep Learning</title>
-      <link>https://fangkiang.com/tags/deep-learning/</link>
-      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
-      <guid>https://fangkiang.com/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
@@ -58,24 +107,10 @@
       <description></description>
     </item>
     <item>
-      <title>Self-Driving Cars</title>
-      <link>https://fangkiang.com/tags/self-driving-cars/</link>
-      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
-      <guid>https://fangkiang.com/tags/self-driving-cars/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tech</title>
       <link>https://fangkiang.com/tags/tech/</link>
       <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
       <guid>https://fangkiang.com/tags/tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Udacity</title>
-      <link>https://fangkiang.com/tags/udacity/</link>
-      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
-      <guid>https://fangkiang.com/tags/udacity/</guid>
       <description></description>
     </item>
     <item>
