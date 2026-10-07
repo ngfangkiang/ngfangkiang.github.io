@@ -1,84 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Ng Fang Kiang</title>
-    <link>https://fangkiang.com/</link>
-    <description>Recent content on Ng Fang Kiang</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Wed, 07 Oct 2026 07:09:01 +0800</lastBuildDate>
-    <atom:link href="https://fangkiang.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>300km in 24 Hours | Casual Clothes, Heavy Gravel Bike | My Malaysia Ultra Solo Ride Record</title>
-      <link>https://fangkiang.com/posts/300km-24hours-gravel-bike-malaysia-ultra-solo-ride/</link>
-      <pubDate>Wed, 07 Oct 2026 07:09:01 +0800</pubDate>
-      <guid>https://fangkiang.com/posts/300km-24hours-gravel-bike-malaysia-ultra-solo-ride/</guid>
-      <description>&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Ng Fang Kiang</title><link>https://fangkiang.com/</link><description>Recent content on Ng Fang Kiang</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 07 Oct 2026 07:09:01 +0800</lastBuildDate><atom:link href="https://fangkiang.com/index.xml" rel="self" type="application/rss+xml"/><item><title>300km in 24 Hours | Casual Clothes, Heavy Gravel Bike | My Malaysia Ultra Solo Ride Record</title><link>https://fangkiang.com/posts/300km-24hours-gravel-bike-malaysia-ultra-solo-ride/</link><pubDate>Wed, 07 Oct 2026 07:09:01 +0800</pubDate><guid>https://fangkiang.com/posts/300km-24hours-gravel-bike-malaysia-ultra-solo-ride/</guid><description>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;&amp;ldquo;You don&amp;rsquo;t need carbon fiber, custom cycling apparel, or a support crew to conquer massive distances. You just need a solid bike, a plan, and the mental grit to push through.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;On &lt;strong&gt;November 29, 2025&lt;/strong&gt;, I set out on a mission to test the absolute limits of raw human willpower. The objective? Complete an unsupported &lt;strong&gt;300-kilometer ultra-endurance loop across Malaysia in under 24 hours&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The twist? No $10,000 carbon fiber road bike, no aerodynamic Lycra bibs, no clipless pedals, and strictly zero support crew following in a van with spare wheels and ice packs. Just me, a lower mid-range DIY gravel bike, regular casual sportswear, hiking shoes, and a 4 kg backpack weighing down on my shoulders for nearly a full day.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Footprints</title>
-      <link>https://fangkiang.com/maps/</link>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <guid>https://fangkiang.com/maps/</guid>
-      <description>&lt;h1&gt;My Footprints&lt;/h1&gt;
-&lt;p class=&#34;footprint_subtitle&#34;&gt;Interactive Map – Exploring the world shapes my global mindset.&lt;br&gt;Search through my journeys across 34 countries to see how diverse perspectives drive my vision.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pitch Black Detours and 2,000m&#43; Climbs: How I Conquered Fraser’s Hill Solo</title>
-      <link>https://fangkiang.com/posts/into-the-dark-conquering-frasers-hill/</link>
-      <pubDate>Tue, 06 Oct 2026 07:09:01 +0800</pubDate>
-      <guid>https://fangkiang.com/posts/into-the-dark-conquering-frasers-hill/</guid>
-      <description>&lt;p&gt;When you roll out of your driveway at 2:00 AM carrying a heavy backpack on a solo gravel bike, you know you aren’t just going for a casual weekend ride. You’re signing up for an endurance test. What started as a goal to conquer Fraser’s Hill turned into a 20-hour marathon filled with pitch-black detours, surprise wildlife encounters, mechanical setbacks, and moments of unexpected camaraderie.&lt;/p&gt;
-&lt;p&gt;Here is the story of how 200 kilometers and pure grit pushed me to my absolute limits.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Hardest Online Course I Ever Took</title>
-      <link>https://fangkiang.com/posts/the-hardest-online-course-i-ever-took/</link>
-      <pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate>
-      <guid>https://fangkiang.com/posts/the-hardest-online-course-i-ever-took/</guid>
-      <description>&lt;p&gt;If I had to choose the most brutally difficult course in my entire self-learning journey, it would undoubtedly be the &lt;strong&gt;Udacity Self-Driving Car Engineer Nanodegree (SDCND)&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Born in 1996 with only a Diploma in Business Studies, I had zero Computer Science (CS) background. I had never taken university-level advanced math or higher physics. Yet, I not only conquered this Autonomous Driving program—a course that leaves many CS master&amp;rsquo;s students struggling—but also became one of its top early graduates globally.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Why I Started This Blog</title>
-      <link>https://fangkiang.com/why/</link>
-      <pubDate>Sun, 04 Oct 2026 10:25:26 +0800</pubDate>
-      <guid>https://fangkiang.com/why/</guid>
-      <description>&lt;p&gt;Starting this blog isn&amp;rsquo;t just about putting words on a screen—it&amp;rsquo;s a deliberate choice to build a space that serves my long-term personal and professional growth.&lt;/p&gt;
+&lt;p&gt;The twist? No $10,000 carbon fiber road bike, no aerodynamic Lycra bibs, no clipless pedals, and strictly zero support crew following in a van with spare wheels and ice packs. Just me, a lower mid-range DIY gravel bike, regular casual sportswear, hiking shoes, and a 4 kg backpack weighing down on my shoulders for nearly a full day.&lt;/p&gt;</description></item><item><title>My Footprints</title><link>https://fangkiang.com/maps/</link><pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate><guid>https://fangkiang.com/maps/</guid><description>&lt;h1&gt;My Footprints&lt;/h1&gt;
+&lt;p class="footprint_subtitle"&gt;Interactive Map – Exploring the world shapes my global mindset.&lt;br&gt;Search through my journeys across 34 countries to see how diverse perspectives drive my vision.&lt;/p&gt;</description></item><item><title>Pitch Black Detours and 2,000m+ Climbs: How I Conquered Fraser’s Hill Solo</title><link>https://fangkiang.com/posts/into-the-dark-conquering-frasers-hill/</link><pubDate>Tue, 06 Oct 2026 07:09:01 +0800</pubDate><guid>https://fangkiang.com/posts/into-the-dark-conquering-frasers-hill/</guid><description>&lt;p&gt;When you roll out of your driveway at 2:00 AM carrying a heavy backpack on a solo gravel bike, you know you aren’t just going for a casual weekend ride. You’re signing up for an endurance test. What started as a goal to conquer Fraser’s Hill turned into a 20-hour marathon filled with pitch-black detours, surprise wildlife encounters, mechanical setbacks, and moments of unexpected camaraderie.&lt;/p&gt;
+&lt;p&gt;Here is the story of how 200 kilometers and pure grit pushed me to my absolute limits.&lt;/p&gt;</description></item><item><title>The Hardest Online Course I Ever Took</title><link>https://fangkiang.com/posts/the-hardest-online-course-i-ever-took/</link><pubDate>Tue, 06 Oct 2026 03:13:13 +0800</pubDate><guid>https://fangkiang.com/posts/the-hardest-online-course-i-ever-took/</guid><description>&lt;p&gt;If I had to choose the most brutally difficult course in my entire self-learning journey, it would undoubtedly be the &lt;strong&gt;Udacity Self-Driving Car Engineer Nanodegree (SDCND)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Born in 1996 with only a Diploma in Business Studies, I had zero Computer Science (CS) background. I had never taken university-level advanced math or higher physics. Yet, I not only conquered this Autonomous Driving program—a course that leaves many CS master&amp;rsquo;s students struggling—but also became one of its top early graduates globally.&lt;/p&gt;</description></item><item><title>Why I Started This Blog</title><link>https://fangkiang.com/why/</link><pubDate>Sun, 04 Oct 2026 10:25:26 +0800</pubDate><guid>https://fangkiang.com/why/</guid><description>&lt;p&gt;Starting this blog isn&amp;rsquo;t just about putting words on a screen—it&amp;rsquo;s a deliberate choice to build a space that serves my long-term personal and professional growth.&lt;/p&gt;
 &lt;p&gt;Here is why I&amp;rsquo;m taking the time to build and maintain this blog:&lt;/p&gt;
-&lt;h3 id=&#34;1-documenting-my-life--journey&#34;&gt;1. Documenting My Life &amp;amp; Journey&lt;/h3&gt;
-&lt;p&gt;Life moves fast, and insights fade quickly if they aren&amp;rsquo;t written down. This blog acts as a personal digital archive where I can document my experiences, track my evolution over time, and reflect on key milestones.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Credits</title>
-      <link>https://fangkiang.com/credits/</link>
-      <pubDate>Sun, 04 Oct 2026 09:18:32 +0800</pubDate>
-      <guid>https://fangkiang.com/credits/</guid>
-      <description>&lt;p&gt;This blog is built with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and powered by a custom fork of the &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;
+&lt;h3 id="1-documenting-my-life--journey"&gt;1. Documenting My Life &amp;amp; Journey&lt;/h3&gt;
+&lt;p&gt;Life moves fast, and insights fade quickly if they aren&amp;rsquo;t written down. This blog acts as a personal digital archive where I can document my experiences, track my evolution over time, and reflect on key milestones.&lt;/p&gt;</description></item><item><title>Credits</title><link>https://fangkiang.com/credits/</link><pubDate>Sun, 04 Oct 2026 09:18:32 +0800</pubDate><guid>https://fangkiang.com/credits/</guid><description>&lt;p&gt;This blog is built with &lt;a href="https://gohugo.io/"&gt;Hugo&lt;/a&gt; and powered by a custom fork of the &lt;a href="https://github.com/adityatelange/hugo-PaperMod"&gt;PaperMod&lt;/a&gt; theme.&lt;/p&gt;
 &lt;p&gt;I forked PaperMod on October 4, 2026, to avoid reinventing the wheel and speed up initial development.&lt;/p&gt;
 &lt;p&gt;I have refactored the codebase to make it a completely custom configuration, specifically for my personal website.&lt;/p&gt;
-&lt;p&gt;Huge thanks to the open-source creators and contributors behind Hugo and PaperMod!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hobbies &amp; Passions</title>
-      <link>https://fangkiang.com/hobbies/</link>
-      <pubDate>Sun, 04 Oct 2026 09:11:35 +0800</pubDate>
-      <guid>https://fangkiang.com/hobbies/</guid>
-      <description>&lt;h2 id=&#34;biking--cultural-exploration&#34;&gt;Biking &amp;amp; Cultural Exploration&lt;/h2&gt;
+&lt;p&gt;Huge thanks to the open-source creators and contributors behind Hugo and PaperMod!&lt;/p&gt;</description></item><item><title>Hobbies &amp; Passions</title><link>https://fangkiang.com/hobbies/</link><pubDate>Sun, 04 Oct 2026 09:11:35 +0800</pubDate><guid>https://fangkiang.com/hobbies/</guid><description>&lt;h2 id="biking--cultural-exploration"&gt;Biking &amp;amp; Cultural Exploration&lt;/h2&gt;
 &lt;p&gt;Building, riding, and discovering—my passion lies at the intersection of hands-on craftsmanship and immersive cultural exploration.&lt;/p&gt;
-&lt;h3 id=&#34;-hardcore-craftsmanship&#34;&gt;🚴‍♂️ Hardcore Craftsmanship&lt;/h3&gt;
+&lt;h3 id="-hardcore-craftsmanship"&gt;🚴‍♂️ Hardcore Craftsmanship&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Custom Bike Build:&lt;/strong&gt; Assembled a unique, custom gravel bike entirely from scratch—sourcing individual components, fine-tuning mechanics, and solving hands-on technical challenges.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;-10000-kilometer-journey&#34;&gt;🛣️ 10,000+ Kilometer Journey&lt;/h3&gt;
+&lt;h3 id="-10000-kilometer-journey"&gt;🛣️ 10,000+ Kilometer Journey&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Measuring Malaysia by Pedal:&lt;/strong&gt; Logged over 10,000 kilometers across Malaysia on my self-built bike, pushing limits of endurance and navigating diverse terrains.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;-cultural-discovery-on-wheels&#34;&gt;🏛️ Cultural Discovery on Wheels&lt;/h3&gt;
+&lt;h3 id="-cultural-discovery-on-wheels"&gt;🏛️ Cultural Discovery on Wheels&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Immersive History:&lt;/strong&gt; Frequently tour ancient temples, historical museums, art exhibitions, and regional cultural events.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Local Connection:&lt;/strong&gt; Use my bicycle as a gateway to connect deeply with local history, heritage, and communities along every route.&lt;/li&gt;
@@ -86,28 +29,13 @@
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Core Strengths:&lt;/strong&gt; Hands-on Problem Solving • Physical &amp;amp; Mental Endurance • Deep Cultural Curiosity&lt;/p&gt;
-&lt;/blockquote&gt;</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>https://fangkiang.com/projects/</link>
-      <pubDate>Sun, 04 Oct 2026 09:11:35 +0800</pubDate>
-      <guid>https://fangkiang.com/projects/</guid>
-      <description>&lt;h2 id=&#34;programming-a-real-self-driving-car-team-project&#34;&gt;Programming a Real Self-Driving Car (Team Project)&lt;/h2&gt;
+&lt;/blockquote&gt;</description></item><item><title>Projects</title><link>https://fangkiang.com/projects/</link><pubDate>Sun, 04 Oct 2026 09:11:35 +0800</pubDate><guid>https://fangkiang.com/projects/</guid><description>&lt;h2 id="programming-a-real-self-driving-car-team-project"&gt;Programming a Real Self-Driving Car (Team Project)&lt;/h2&gt;
 &lt;p&gt;Our team implemented key functionalities like perception (object detection, traffic light recognition), planning (path planning, behavioral decision making), and control (steering, throttle control) using ROS, Python, and C++.&lt;/p&gt;
-&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/BEYpU2B77bE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-		&lt;/div&gt;
-
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/BEYpU2B77bE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Team Members:&lt;/strong&gt;
-&lt;a href=&#34;https://www.linkedin.com/in/antonpechenko/&#34;&gt;Anton Pechenko&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/kai-detlefsen/&#34;&gt;Kai Detlefsen&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/andrew-ayers-31182925/&#34;&gt;Andrew Ayers&lt;/a&gt;, &lt;a href=&#34;https://www.linkedin.com/in/muddassir35&#34;&gt;Muddassir Ahmed Khan&lt;/a&gt;, Ng Fang Kiang (Me)&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>https://fangkiang.com/work/</link>
-      <pubDate>Sun, 04 Oct 2026 09:11:35 +0800</pubDate>
-      <guid>https://fangkiang.com/work/</guid>
-      <description>&lt;h3 id=&#34;lead-product-manager--founder&#34;&gt;Lead Product Manager &amp;amp; Founder&lt;/h3&gt;
+&lt;a href="https://www.linkedin.com/in/antonpechenko/"&gt;Anton Pechenko&lt;/a&gt;, &lt;a href="https://www.linkedin.com/in/kai-detlefsen/"&gt;Kai Detlefsen&lt;/a&gt;, &lt;a href="https://www.linkedin.com/in/andrew-ayers-31182925/"&gt;Andrew Ayers&lt;/a&gt;, &lt;a href="https://www.linkedin.com/in/muddassir35"&gt;Muddassir Ahmed Khan&lt;/a&gt;, Ng Fang Kiang (Me)&lt;/p&gt;</description></item><item><title>Work</title><link>https://fangkiang.com/work/</link><pubDate>Sun, 04 Oct 2026 09:11:35 +0800</pubDate><guid>https://fangkiang.com/work/</guid><description>&lt;h3 id="lead-product-manager--founder"&gt;Lead Product Manager &amp;amp; Founder&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Jorcus&lt;/strong&gt; · &lt;em&gt;Jun 2018 – Aug 2024 (6 yrs 3 mos)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Bootstrapped a 0-to-1 global online platform connecting digital nomads and remote workers worldwide. Served as sole owner across product strategy, engineering, and growth.&lt;/p&gt;
 &lt;ul&gt;
@@ -115,95 +43,64 @@
 &lt;li&gt;&lt;strong&gt;Product Strategy &amp;amp; Data-Driven Growth:&lt;/strong&gt; Built and executed the entire feedback-to-data-to-prioritization loop. Drove organic acquisition and user retention through community-led growth strategies and rapid agile prototyping.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;mentor--project-reviewer--forum-mentor--live-help-expert&#34;&gt;Mentor | Project Reviewer | Forum Mentor | Live Help Expert&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Udacity&lt;/strong&gt; · &lt;em&gt;Aug 2017 – Jun 2018 (11 mos)&lt;/em&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Looking Back at My 2021 Tech Predictions: How the Future Arrived Right on Schedule</title>
-      <link>https://fangkiang.com/posts/looking_back_at_my_2021_tech_predictions/</link>
-      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
-      <guid>https://fangkiang.com/posts/looking_back_at_my_2021_tech_predictions/</guid>
-      <description>&lt;p&gt;Back in December 2021, I wrote a post outlining what I believed the world and the tech landscape would look like over the next five years. Looking around today in &lt;strong&gt;2026&lt;/strong&gt;, it’s fascinating—and deeply satisfying—to see how many of those predictions have shifted from bold foresight into everyday reality.&lt;/p&gt;
+&lt;h3 id="mentor--project-reviewer--forum-mentor--live-help-expert"&gt;Mentor | Project Reviewer | Forum Mentor | Live Help Expert&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Udacity&lt;/strong&gt; · &lt;em&gt;Aug 2017 – Jun 2018 (11 mos)&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Looking Back at My 2021 Tech Predictions: How the Future Arrived Right on Schedule</title><link>https://fangkiang.com/posts/looking_back_at_my_2021_tech_predictions/</link><pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate><guid>https://fangkiang.com/posts/looking_back_at_my_2021_tech_predictions/</guid><description>&lt;p&gt;Back in December 2021, I wrote a post outlining what I believed the world and the tech landscape would look like over the next five years. Looking around today in &lt;strong&gt;2026&lt;/strong&gt;, it’s fascinating—and deeply satisfying—to see how many of those predictions have shifted from bold foresight into everyday reality.&lt;/p&gt;
 &lt;p&gt;Here is a look back at what I wrote in 2021, alongside how those trends have actually played out:&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;1-the-work-revolution-remote-automation-and-workations&#34;&gt;1. The Work Revolution: Remote, Automation, and &amp;ldquo;Workations&amp;rdquo;&lt;/h3&gt;
+&lt;h3 id="1-the-work-revolution-remote-automation-and-workations"&gt;1. The Work Revolution: Remote, Automation, and &amp;ldquo;Workations&amp;rdquo;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What I predicted in 2021:&lt;/strong&gt; Remote and hybrid work would become standard, manual labor would transition into configuring AI/robots, and terms like &lt;em&gt;&amp;ldquo;Workation&amp;rdquo;&lt;/em&gt; and &lt;em&gt;&amp;ldquo;digital nomad&amp;rdquo;&lt;/em&gt; would mainstream as live, work, and travel integrate.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Reality in 2026:&lt;/strong&gt; Work is no longer tied to a physical office for millions. The line between living and working has blurred into a modern digital nomad lifestyle. On the industrial side, automation and applied AI have taken over repetitive physical labor, transforming modern manual roles into high-tech operator and supervisory positions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;2-ai--software-development-software-20--ai-assistance&#34;&gt;2. AI &amp;amp; Software Development: Software 2.0 &amp;amp; AI Assistance&lt;/h3&gt;
+&lt;h3 id="2-ai--software-development-software-20--ai-assistance"&gt;2. AI &amp;amp; Software Development: Software 2.0 &amp;amp; AI Assistance&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What I predicted in 2021:&lt;/strong&gt; Software development would pivot heavily toward concepts like Software 2.0, GitHub Copilot, and early LLMs (like GPT-3).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Reality in 2026:&lt;/strong&gt; AI-assisted development is no longer an experiment; it is the fundamental way code is written today. Developers have evolved into architects driving AI systems, dramatically accelerating how products are built and deployed.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;3-hardware--infrastructure-arm-chips-5g-and-pwa-adoption&#34;&gt;3. Hardware &amp;amp; Infrastructure: ARM Chips, 5G, and PWA Adoption&lt;/h3&gt;
+&lt;h3 id="3-hardware--infrastructure-arm-chips-5g-and-pwa-adoption"&gt;3. Hardware &amp;amp; Infrastructure: ARM Chips, 5G, and PWA Adoption&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What I predicted in 2021:&lt;/strong&gt; ARM architecture and 5G would dominate computation, while Web-based PWAs (Progressive Web Apps) would gain ground as native app fatigue set in.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Reality in 2026:&lt;/strong&gt; ARM has solidified its place as the efficiency benchmark across both mobile devices and cloud servers. Connectivity is seamless, and lightweight, web-centric software models continue to challenge bloated native applications.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;4-digital-humans-virtual-reality--spatial-computing&#34;&gt;4. Digital Humans, Virtual Reality, &amp;amp; Spatial Computing&lt;/h3&gt;
+&lt;h3 id="4-digital-humans-virtual-reality--spatial-computing"&gt;4. Digital Humans, Virtual Reality, &amp;amp; Spatial Computing&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What I predicted in 2021:&lt;/strong&gt; Virtual/digital humans (like @lilmiquela) would become mainstream influencers alongside traditional YouTubers and KOLs, while AR/VR technologies would gain widespread adoption.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Reality in 2026:&lt;/strong&gt; Virtual avatars and AI-driven personalities are everywhere in digital marketing, gaming, and content creation. Spatial computing and immersive 3D experiences are integrated deeply into everyday entertainment and media.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;5-sustainability--electric-vehicles&#34;&gt;5. Sustainability &amp;amp; Electric Vehicles&lt;/h3&gt;
+&lt;h3 id="5-sustainability--electric-vehicles"&gt;5. Sustainability &amp;amp; Electric Vehicles&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What I predicted in 2021:&lt;/strong&gt; Electric vehicles (EVs) would be enforced and prioritized to save the planet.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Reality in 2026:&lt;/strong&gt; The global shift away from traditional ICE engines has accelerated rapidly, making EVs the default choice for new drivers around the world.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h3&gt;
-&lt;p&gt;As I noted back in 2021: &lt;em&gt;&amp;ldquo;The future is not something to be feared, but something to be embraced.&amp;rdquo;&lt;/em&gt; Seeing these shifts materialize over the last five years reinforces that technology moves fast, but clear trajectory markers are almost always visible if we look closely enough.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My Journey with MIT DeepTraffic: Ranking #1 and Winning the Udacity Self-Driving Car Tuition Waiver</title>
-      <link>https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/</link>
-      <pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate>
-      <guid>https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/</guid>
-      <description>&lt;p&gt;Back in early 2017, I had the incredible opportunity to participate in MIT’s &lt;strong&gt;6.S094: Deep Learning for Self-Driving Cars&lt;/strong&gt; competition—&lt;strong&gt;DeepTraffic&lt;/strong&gt;. It was an exhilarating experience that marked a significant milestone in my journey with AI and autonomous driving technology.&lt;/p&gt;
-&lt;h2 id=&#34;leaderboard-achievements&#34;&gt;Leaderboard Achievements&lt;/h2&gt;
+&lt;h3 id="final-thoughts"&gt;Final Thoughts&lt;/h3&gt;
+&lt;p&gt;As I noted back in 2021: &lt;em&gt;&amp;ldquo;The future is not something to be feared, but something to be embraced.&amp;rdquo;&lt;/em&gt; Seeing these shifts materialize over the last five years reinforces that technology moves fast, but clear trajectory markers are almost always visible if we look closely enough.&lt;/p&gt;</description></item><item><title>My Journey with MIT DeepTraffic: Ranking #1 and Winning the Udacity Self-Driving Car Tuition Waiver</title><link>https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/</link><pubDate>Sun, 04 Oct 2026 07:22:49 +0800</pubDate><guid>https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/</guid><description>&lt;p&gt;Back in early 2017, I had the incredible opportunity to participate in MIT’s &lt;strong&gt;6.S094: Deep Learning for Self-Driving Cars&lt;/strong&gt; competition—&lt;strong&gt;DeepTraffic&lt;/strong&gt;. It was an exhilarating experience that marked a significant milestone in my journey with AI and autonomous driving technology.&lt;/p&gt;
+&lt;h2 id="leaderboard-achievements"&gt;Leaderboard Achievements&lt;/h2&gt;
 &lt;table&gt;
-	&lt;thead&gt;
-			&lt;tr&gt;
-					&lt;th style=&#34;text-align: center&#34;&gt;DeepTraffic 1.0&lt;/th&gt;
-					&lt;th style=&#34;text-align: center&#34;&gt;DeepTraffic 1.1&lt;/th&gt;
-			&lt;/tr&gt;
-	&lt;/thead&gt;
-	&lt;tbody&gt;
-			&lt;tr&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;DeepTraffic 1.0 Leaderboard&#34; loading=&#34;lazy&#34; src=&#34;https://fangkiang.com/images/screenshot/DeepTrafficLeaderboard1.0.png&#34;&gt;&lt;/td&gt;
-					&lt;td style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;DeepTraffic 1.1 Leaderboard&#34; loading=&#34;lazy&#34; src=&#34;https://fangkiang.com/images/screenshot/DeepTrafficLeaderboard1.1.png&#34;&gt;&lt;/td&gt;
-			&lt;/tr&gt;
-	&lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;DeepTraffic 1.0&lt;/th&gt;
+&lt;th style="text-align: center"&gt;DeepTraffic 1.1&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;&lt;img alt="DeepTraffic 1.0 Leaderboard" loading="lazy" src="https://fangkiang.com/images/screenshot/DeepTrafficLeaderboard1.0.png"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;img alt="DeepTraffic 1.1 Leaderboard" loading="lazy" src="https://fangkiang.com/images/screenshot/DeepTrafficLeaderboard1.1.png"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h3 id=&#34;achieving-1-on-deeptraffic-10--11&#34;&gt;Achieving #1 on DeepTraffic 1.0 &amp;amp; 1.1&lt;/h3&gt;
-&lt;p&gt;In January 2017, after countless hours of hyperparameter tuning, model iteration, and deep reinforcement learning experiments, I managed to reach the &lt;strong&gt;#1 spot on the DeepTraffic 1.0 leaderboard&lt;/strong&gt; under the username &lt;code&gt;Instagram: Jorcus96&lt;/code&gt; with a speed score of &lt;strong&gt;75.38 MPH&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>That Time NVIDIA AI Followed 135 Accounts on Instagram - And I Was One of Them</title>
-      <link>https://fangkiang.com/posts/nvidia-ai-followed-my-instagram/</link>
-      <pubDate>Sun, 04 Oct 2026 07:22:44 +0800</pubDate>
-      <guid>https://fangkiang.com/posts/nvidia-ai-followed-my-instagram/</guid>
-      <description>&lt;p&gt;Back in July 2017, when &lt;a href=&#34;https://www.instagram.com/nvidiaai/&#34;&gt;NVIDIA AI (@nvidiaai)&lt;/a&gt; launched its official Instagram account, something completely unexpected happened: they followed my personal account.&lt;/p&gt;
+&lt;h3 id="achieving-1-on-deeptraffic-10--11"&gt;Achieving #1 on DeepTraffic 1.0 &amp;amp; 1.1&lt;/h3&gt;
+&lt;p&gt;In January 2017, after countless hours of hyperparameter tuning, model iteration, and deep reinforcement learning experiments, I managed to reach the &lt;strong&gt;#1 spot on the DeepTraffic 1.0 leaderboard&lt;/strong&gt; under the username &lt;code&gt;Instagram: Jorcus96&lt;/code&gt; with a speed score of &lt;strong&gt;75.38 MPH&lt;/strong&gt;.&lt;/p&gt;</description></item><item><title>That Time NVIDIA AI Followed 135 Accounts on Instagram - And I Was One of Them</title><link>https://fangkiang.com/posts/nvidia-ai-followed-my-instagram/</link><pubDate>Sun, 04 Oct 2026 07:22:44 +0800</pubDate><guid>https://fangkiang.com/posts/nvidia-ai-followed-my-instagram/</guid><description>&lt;p&gt;Back in July 2017, when &lt;a href="https://www.instagram.com/nvidiaai/"&gt;NVIDIA AI (@nvidiaai)&lt;/a&gt; launched its official Instagram account, something completely unexpected happened: they followed my personal account.&lt;/p&gt;
 &lt;p&gt;At the time, @nvidiaai was right at its inception with only a few dozen followers. I was going by my handle &lt;code&gt;@jorcus96&lt;/code&gt;, and seeing an official account from a tech giant pop up in my notifications felt completely surreal.&lt;/p&gt;
 &lt;table&gt;
-	&lt;thead&gt;
-			&lt;tr&gt;
-					&lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;NVIDIA AI Instagram Profile&#34; loading=&#34;lazy&#34; src=&#34;https://fangkiang.com/images/screenshot/Screenshot_20190615-152233_Instagram-nvidiaai.jpg&#34;&gt;&lt;/th&gt;
-					&lt;th style=&#34;text-align: center&#34;&gt;&lt;img alt=&#34;NVIDIA AI Following List including jorcus96&#34; loading=&#34;lazy&#34; src=&#34;https://fangkiang.com/images/screenshot/Screenshot_20190615-152206_Instagram-nvidiaai.jpg&#34;&gt;&lt;/th&gt;
-			&lt;/tr&gt;
-	&lt;/thead&gt;
-	&lt;tbody&gt;
-	&lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="text-align: center"&gt;&lt;img alt="NVIDIA AI Instagram Profile" loading="lazy" src="https://fangkiang.com/images/screenshot/Screenshot_20190615-152233_Instagram-nvidiaai.jpg"&gt;&lt;/th&gt;
+&lt;th style="text-align: center"&gt;&lt;img alt="NVIDIA AI Following List including jorcus96" loading="lazy" src="https://fangkiang.com/images/screenshot/Screenshot_20190615-152206_Instagram-nvidiaai.jpg"&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;By June 2019, as captured in the screenshots above, the account had grown to 4,278 followers across 65 posts, while keeping its following list exceptionally exclusive at just 135 accounts.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My 1st post</title>
-      <link>https://fangkiang.com/post/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://fangkiang.com/post/</guid>
-      <description>Desc Text.</description>
-    </item>
-  </channel>
-</rss>
+&lt;p&gt;By June 2019, as captured in the screenshots above, the account had grown to 4,278 followers across 65 posts, while keeping its following list exceptionally exclusive at just 135 accounts.&lt;/p&gt;</description></item><item><title>My 1st post</title><link>https://fangkiang.com/post/</link><pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate><guid>https://fangkiang.com/post/</guid><description>Desc Text.</description></item></channel></rss>
