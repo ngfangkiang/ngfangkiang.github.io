@@ -1,7 +1,7 @@
 # Ng Fang Kiang - Full Content Archive
 
 > A full-content text archive for RAG/LLM knowledge base.
-> Last Updated: 2026-10-14
+> Last Updated: 2026-10-15
 
 ## About The Author
 
@@ -18,7 +18,7 @@
 ---
 
 [START POST METADATA]
-title: "An Unusual Route: Why I Chose Full-Time MOOCs Over Traditional Paths in 2016"
+title: "An Unusual Route"
 url: "https://fangkiang.com/posts/an-unusual-route/"
 date: "2026-10-14"
 tags: ["Self-Taught","MOOCs","Career Journey","Entrepreneurship","Mindset","Reflections"]
@@ -74,7 +74,7 @@ Choosing the unusual route stripped away any reliance on credentials, luck, or e
 ---
 
 [START POST METADATA]
-title: "At the Peak but Bound by Ground: The Unfinished Journey to the Frontier"
+title: "At the Peak but Bound by Ground"
 url: "https://fangkiang.com/posts/at-the-peak-but-bound-by-ground/"
 date: "2026-10-14"
 tags: ["Artificial Intelligence","Deep Reinforcement Learning","MIT","Self-Taught","Career Journey","Frontier Tech"]
