@@ -1,4 +1,5 @@
 # Ng Fang Kiang - Full Content Archive
+
 > A full-content text archive for RAG/LLM knowledge base.
 > Last Updated: 2026-10-14
 
@@ -11,13 +12,16 @@
 - **Canonical Website**: https://fangkiang.com/
 
 ---
+
 ## Full Content Archive
+
 ---
+
 [START POST METADATA]
 title: "An Unusual Route: Why I Chose Full-Time MOOCs Over Traditional Paths in 2016"
 url: "https://fangkiang.com/posts/an-unusual-route/"
 date: "2026-10-14"
-tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+tags: ["Self-Taught","MOOCs","Career Journey","Entrepreneurship","Mindset","Reflections"]
 [END POST METADATA]
 
 [START POST CONTENT]
@@ -35,7 +39,7 @@ The reply I received from David Joyner at Udacity was the exact spark I was look
 This external validation grew even stronger when I connected with another internal team member at Udacity. Having noticed in my Instagram bio that my ultimate goal was to pursue a Master’s degree, he personally offered to write me a recommendation letter for OMSCS and even wanted to feature my story on Udacity’s official website. Although family circumstances ultimately prevented me from formally enrolling, that connection remained a meaningful milestone—years later, he went on to join Apple, while I forged my own path as an entrepreneur.
 I had the passion. I had the raw work ethic. I had early external validation from people inside the industry.
 Yet, I was entirely powerless against domestic reality.
-2.Breaking the Clock: Why I Refused to Wait for Semesters Beyond my specific goal of getting into OMSCS, there was another fundamental reason I rejected traditional universities: they are bound by rigid timelines rather than personal velocity.
+2. Breaking the Clock: Why I Refused to Wait for Semesters Beyond my specific goal of getting into OMSCS, there was another fundamental reason I rejected traditional universities: they are bound by rigid timelines rather than personal velocity.
 Conventional degree programs force you to march to the beat of an institutional calendar. Regardless of how fast you grasp the material or how many hours you are willing to pour in, your progress is artificially throttled by semester schedules, credit-hour limits, and bureaucratic pacing.
 I didn’t want to spend three to four years waiting for permission to learn the next topic. My goal was simple: achieve the maximum possible output in the shortest possible time.
 At the time, Udacity offered a game-changing incentive: a 50% tuition refund for students who completed a Nanodegree early or within a strict timeframe. Because my financial resources were severely limited, this policy aligned my economic survival directly with my hunger for speed:
@@ -66,12 +70,14 @@ Yet, I harbor zero regrets.
 Choosing the unusual route stripped away any reliance on credentials, luck, or external approval. It taught me that genuine capability is proven by proof-of-work, not paper pedigrees. Most importantly, it gave me the mental armor to take on any challenge—whether building complex software systems from scratch, venturing into the dark to conquer Fraser’s Hill, or pedaling 300 kilometers solo through pitch-black highways inside 24 hours—knowing that as long as I retain control of my focus and willpower, no ceiling is permanent.
 
 [END POST CONTENT]
+
 ---
+
 [START POST METADATA]
 title: "At the Peak but Bound by Ground: The Unfinished Journey to the Frontier"
 url: "https://fangkiang.com/posts/at-the-peak-but-bound-by-ground/"
 date: "2026-10-14"
-tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+tags: ["Artificial Intelligence","Deep Reinforcement Learning","MIT","Self-Taught","Career Journey","Frontier Tech"]
 [END POST METADATA]
 
 [START POST CONTENT]
@@ -113,12 +119,14 @@ Circumstances may pause your timeline, but they cannot dilute your capability un
 The anchor is finally up. The horizon is wide open. And I am ready to build where it matters most.
 
 [END POST CONTENT]
+
 ---
+
 [START POST METADATA]
 title: "300km in 24 Hours - My Malaysia Ultra Solo Ride Record in Casual Gear"
 url: "https://fangkiang.com/posts/300km-24hours-gravel-bike-malaysia-ultra-solo-ride/"
 date: "2026-10-07"
-tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+tags: ["Resilience","Mindset","Grit","Goal Execution","Personal Growth","Mental Toughness","Malaysia Ultra Cycling","Endurance Challenge","The Twenties Milestone Series"]
 [END POST METADATA]
 
 [START POST CONTENT]
@@ -181,12 +189,14 @@ Ultimately, this ride was a mental experiment—a deliberate act of extreme self
 From the climbs of Fraser’s Hill to the redemption of this 300 km loop, this journey proved what mattered most: it is never the limit of physical endurance that holds us back, but the constraints of our environment and mind. As long as the fire inside refuses to burn out, these legs will keep carrying me further into whichever chapter comes next.
 The Twenties Milestone Series Chapter 1 (The Crucible): Pitch Black Detours and 2,000m+ Climbs: How I Conquered Fraser’s Hill Solo Chapter 2 (The Graduation Badge): 300km in 24 Hours — My Malaysia Ultra Solo Ride Record in Casual Gear (You are here) 
 [END POST CONTENT]
+
 ---
+
 [START POST METADATA]
 title: "Pitch Black Detours and 2,000m+ Climbs: How I Conquered Fraser’s Hill Solo"
 url: "https://fangkiang.com/posts/into-the-dark-conquering-frasers-hill/"
 date: "2026-10-06"
-tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+tags: ["Goal Execution","Mental Toughness","Grit","Personal Growth","Mindset","Resilience","Endurance Challenge","Malaysia Ultra Cycling","Adventure","The Twenties Milestone Series"]
 [END POST METADATA]
 
 [START POST CONTENT]
@@ -248,12 +258,14 @@ The true ride lived in the stillness of the rural forest at 4:00 AM, the sudden 
 It was unpredictable, exhausting, and unforgettable—the definitive proof that no matter how daunting the distance ahead appears, all that matters is having the courage to roll out into the dark and keep the pedals turning.
 
 [END POST CONTENT]
+
 ---
+
 [START POST METADATA]
 title: "The Hardest Online Course I Ever Took"
 url: "https://fangkiang.com/posts/the-hardest-online-course-i-ever-took/"
 date: "2026-10-06"
-tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+tags: ["Self-Driving Cars","Deep Learning","Computer Vision","Sensor Fusion","Robotics","C++","Udacity","Self-Taught"]
 [END POST METADATA]
 
 [START POST CONTENT]
@@ -317,12 +329,14 @@ Going from a business student copying HTML snippets on W3Schools to a self-taugh
 It completely reshaped my learning methodology—proving that with the right drive, no technical ceiling is unbreachable. It gave me unshakeable technical confidence—if I could master self-driving algorithms, no new technology or framework could intimidate me again. Self-directed learning can be a lonely road marked by doubt and real-world hurdles. But once you write that first line of code and keep going, every late night and effort spent becomes the strongest armor you carry forward.
 
 [END POST CONTENT]
+
 ---
+
 [START POST METADATA]
 title: "Looking Back at My 2021 Tech Predictions: How the Future Arrived Right on Schedule"
 url: "https://fangkiang.com/posts/looking_back_at_my_2021_tech_predictions/"
 date: "2026-10-04"
-tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+tags: ["Tech","AI","Future","Reflections","Automation"]
 [END POST METADATA]
 
 [START POST CONTENT]
@@ -345,12 +359,14 @@ I think people will have more time to travel and work. Things like “Workation�
 Look ahead for the 5 to 10 years. I believe something like metaverse, omniverse, AR, VR, all kind of 3D stuffs (Simulation,3D/4D printing,3Dmovie/news, Technologies) and so on will be popularized and became another norm. Electric vehicles will be enforced. Save the planet without more gasoline! Flying car seems very promising too! Until that time, I think I will start to look at something like biomachine, biocomputing and so on.
 Original Source: Instagram Post (December 5, 2021) View this post on Instagram 
 [END POST CONTENT]
+
 ---
+
 [START POST METADATA]
 title: "My Journey with MIT DeepTraffic: Ranking #1"
 url: "https://fangkiang.com/posts/mit-deeptraffic-first-place-udacity/"
 date: "2026-10-04"
-tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+tags: ["Deep Learning","Reinforcement Learning","Self-Driving Cars","MIT","Udacity","AI"]
 [END POST METADATA]
 
 [START POST CONTENT]
@@ -372,12 +388,14 @@ Showcasing Your Work Matters: Achieving something is great, but actively sharing
 Thank you to MIT for hosting such an awesome benchmark competition and to everyone who supported me throughout this journey!
 References & Academic Publications Research Paper: Lex Fridman, Jack Terwilliger, & Benedikt Jenik. “DeepTraffic: Crowdsourced Hyperparameter Tuning of Deep Reinforcement Learning Systems for Multi-Agent Dense Traffic Navigation” (arXiv:1801.02805). Official Competition Code: MIT DeepTraffic Open Source Repository on GitHub DeepTraffic 1.0 Verification: Leaderboard Proof Screenshot (GitHub Repository) DeepTraffic 1.1 Verification: Leaderboard Proof Screenshot (GitHub Repository) Web Archive Leaderboard: MIT 6.S094 DeepTraffic 1.1 Archived Leaderboard (Oct 18, 2017) (showing NG FANG KIANG at Rank 3 with 76.16 MPH nearly a year later) Third-Party Community Write-up: My Attempt at Beating DeepTraffic by Jason Salas (featuring instagram:jorcus96 at #1 on the leaderboard screenshot) Third-Party GitHub Repository: pranz24’s MIT-DeepTraffic-1.1 Repository (capturing jorcus96 at #1 on the leaderboard) Community Achievement: Alireza Kohani’s 2nd Place Journey & Design Portfolio (detailing the 2nd place strategy in the MIT 6.S094 DeepTraffic challenge) 
 [END POST CONTENT]
+
 ---
+
 [START POST METADATA]
 title: "That Time NVIDIA AI Followed 135 Accounts on Instagram - And I Was One of Them"
 url: "https://fangkiang.com/posts/nvidia-ai-followed-my-instagram/"
 date: "2026-10-04"
-tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+tags: ["NVIDIA","Instagram","Personal Story","Tech","Social Media"]
 [END POST METADATA]
 
 [START POST CONTENT]
@@ -390,3 +408,4 @@ Scrolling through that select list, my personal handle (@jorcus96 / Ng Fang Kian
 As @nvidiaai scaled into a major industry hub with hundreds of thousands of followers, they eventually overhauled their social media strategy and unfollowed individual accounts. But having a front-row seat to the early days of official AI social media—and knowing that my self-taught journey in AI caught the eye of NVIDIA—remains one of my favorite pieces of personal tech trivia.
 
 [END POST CONTENT]
+
