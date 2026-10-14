@@ -14,6 +14,53 @@
 ## Full Content Archive
 ---
 [START POST METADATA]
+title: "At the Peak but Bound by Ground: The Unfinished Journey to the Frontier"
+url: "https://fangkiang.com/posts/at-the-peak-but-bound-by-ground/"
+date: "2026-10-14"
+tags: ["%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)", "%!s(MISSING)"]
+[END POST METADATA]
+
+[START POST CONTENT]
+Back in 2017, my life took a sharp turn into the surreal.
+I was twenty years old, sitting in my bedroom in Malaysia, staring at a flickering monitor late into the night. I had no Computer Science degree, no prestigious institutional pedigree, and no corporate network to lean on. What I did have was an obsessive curiosity for artificial intelligence, an internet connection, and the stamina to spend endless nights reading research papers, writing code, and fine-tuning hyperparameters.
+That quiet obsession led me to enter the MIT 6.S094 DeepTraffic Deep Reinforcement Learning challenge.
+When my name, NG FANG KIANG (competing under my online handle, Jorcus96), climbed past thousands of international researchers and PhD candidates to claim #1 on the global MIT leaderboard—and held a top-three spot for months—the digital ripples created in that modest bedroom reached the inner sanctums of Silicon Valley. You can read the technical post-mortem of how I achieved that in my post: MIT DeepTraffic First Place & Udacity.
+The world around me accelerated almost instantly.
+When NVIDIA AI launched their official Instagram presence, they curated an exclusive list of just 135 accounts worldwide—a roster dominated by institutions like TechCrunch, MIT Technology Review, and frontier AI laboratories. To my sheer astonishment, my personal account @jorcus96 was on that list. I captured that disbelief in NVIDIA AI Followed My Instagram.
+Within weeks, my LinkedIn inbox transformed into a battleground for international recruiters, founders, and research scouts.
+Yet the most surreal milestone was still waiting.
+🌟 A Message from the Apex of Tech One afternoon, a social connection request caught my eye. The name was impossible to miss: a high-profile Senior Vice President at a FAANG titan—a visionary leader whose keynotes I had watched and whose strategic moves routinely shaped global headlines.
+Back in 2017, verified badges were rare, and elite executives seldom maintained public-facing social accounts. My immediate reaction was skepticism: Is this an impersonation profile? Why on earth would one of the most influential decision-makers in global tech reach out to an unknown kid in Malaysia?
+I spent hours meticulously cross-referencing mutual connections, posting chronologies, corporate engagements, and professional ties. Every single data point lined up.
+It was real.
+A pioneer sitting at the top of modern computing had personally tracked my deep reinforcement learning results and extended a hand.
+Through that single inflection point, an invisible door swung wide open. To this day, scrolling through my network feels like stepping into an alternate reality. Without disclosing private details, that door connected me directly to some of the most formidable minds on earth:
+Billionaire Founders & Tech Pioneers: The foundational architects of platforms used by billions daily, including the co-founders of the world’s primary video platform and mobile operating system. C-Suite & SVPs at Tech Giants: Industry leaders directing the technological frontier—Chief Scientific Officers, Chief Scientists, former SVPs, and Chief Business Officers. Legendary AI Researchers (H-Index 100–200+): The pioneers whose papers defined modern AI, including the creator of Word2vec, a co-author of the seminal Deep Learning textbook, and leading scholars from MIT, CMU, and the Max Planck Institute. Decorated Scientists: Luminaries honored with the Gödel Prize in theoretical computer science, the Kyoto Prize for advanced technology, and an Academy Award (Oscar) for Technical Achievement. Frontier Lab Engineers (DeepMind, OpenAI, Meta AI): Hands-on builders of the modern intelligence era, including the lead programmer behind DeepMind’s AlphaGo, core co-creators of open-source models like LLaMA, and researchers pushing limits across OpenAI and Google Brain. For a self-taught engineer from Malaysia, it was the ultimate golden ticket. The launchpad was clear, fueled, and waiting.
+🏡 The Crossroads: Anchored by Duty With world-class validation and direct access to elite networks, the path forward seemed predetermined. In 2017, working on frontier AI meant physically being in the room where it was built—in Silicon Valley, Seattle, or London. Frontier research labs and Tier-1 tech giants were practically knocking at the door.
+Then, reality intervened:
+“I want to go, but I can’t.”
+At twenty, I was confronted with complex, non-negotiable family responsibilities in Malaysia. My life was not solely my own to gamble on personal ambition. I could not, in good conscience, pack my bags, board a flight across the Pacific, and leave my family to shoulder those burdens alone.
+So, I made the conscious, agonizing choice to stay.
+Over the years that followed, I watched from halfway across the world as peers from that MIT leaderboard—some of whom my models had outperformed—landed in California and London, joined frontier labs, and rode the crest of the generative AI revolution. I followed their triumphs through a screen.
+To pretend I did not feel a heavy ache of sacrifice and the silent sting of powerlessness would be dishonest. I was at the peak of my potential, yet bound to the ground.
+🛠️ Forging Capability in the Wilderness Life, however, is shaped not by the doors that close, but by how you build while standing in the hallway.
+While physical relocation was impossible, the events of 2017 permanently altered my horizon. The pioneers and scientists in my network became an enduring mental benchmark. They reminded me that geographic distance never dictates your intellectual ceiling—uncompromising discipline and engineering rigor speak for themselves anywhere.
+I remained in Malaysia, but I never stopped building:
+Mastering Autonomous Systems: I tackled the demanding Udacity Self-Driving Car Engineer Nanodegree, becoming one of its pioneering global graduates. Navigating sensor fusion, computer vision, and localization from scratch hardened my foundational skills (The Hardest Online Course I Ever Took). Pragmatic, Resilient AI in Production: I shifted my focus from toy benchmark optimizations to architecting resilient, production-grade systems capable of delivering measurable real-world impact. Pushing Physical and Mental Limits: I channeled that same relentless endurance outside the terminal, completing an unsupported, solo 300km cycling ultra across Malaysia in under 24 hours (300km in 24 Hours: Gravel Bike Malaysia Ultra Solo Ride). That ride taught me how to push through acute exhaustion when there is no support vehicle behind you. I did not have a high-rise office in Menlo Park or Seattle, but I forged an unshakeable inner resilience and an engineer’s work ethic right here at home.
+🚀 The Anchor Is Up: Ready for the Frontier A decade of quiet discipline transforms you.
+The heavy family obligations that once anchored me in Malaysia have been faithfully honored and resolved. The geographical constraints that once defined my perimeter no longer exist. Today, I am fully mobile, unencumbered, and ready to go wherever the hardest engineering challenges live.
+Yet, what surprises me most is that the fire never dimmed. If anything, it has distilled into absolute clarity.
+I have spent years building independently, but my deepest ambition remains unchanged: to join a world-class technology titan and build alongside elite teams at the frontier of technology.
+Why? Because the defining challenges of our generation—planetary-scale compute infrastructure, foundation models, embodied intelligence, and autonomous systems—require immense talent density, world-scale resources, and relentless collective ambition. Having caught a glimpse of that summit at twenty, I know the caliber of work required. I know the feeling of going toe-to-toe with the best in the world and winning.
+The twenty-year-old on the MIT leaderboard proved that raw curiosity and self-taught discipline could break through global barriers. The engineer standing here today brings something far more valuable: a decade of tested grit, systems-level pragmatism, battle-hardened endurance, and zero excuses.
+💡 Closing Thoughts: To the Builders If you are a self-taught engineer, an unconventional builder, or someone currently held back by circumstances beyond your control, hold onto this:
+Build relentlessly, build in public, and never let temporary constraints convince you of a permanent ceiling.
+Circumstances may pause your timeline, but they cannot dilute your capability unless you surrender it. Keep sharpening your craft in the dark.
+The anchor is finally up. The horizon is wide open. And I am ready to build where it matters most.
+
+[END POST CONTENT]
+---
+[START POST METADATA]
 title: "300km in 24 Hours - My Malaysia Ultra Solo Ride Record in Casual Gear"
 url: "https://fangkiang.com/posts/300km-24hours-gravel-bike-malaysia-ultra-solo-ride/"
 date: "2026-10-07"
