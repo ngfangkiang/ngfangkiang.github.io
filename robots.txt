@@ -1,3 +1,7 @@
 User-agent: *
 Disallow:
 Sitemap: https://fangkiang.com/sitemap.xml
+
+# LLM Context Specifications
+Allow: /llms.txt
+Allow: /llms-full.txt
