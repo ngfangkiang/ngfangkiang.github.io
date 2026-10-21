@@ -1,7 +1,7 @@
 # Ng Fang Kiang - Full Content Archive
 
 > A full-content text archive for RAG/LLM knowledge base.
-> Last Updated: 2026-10-20
+> Last Updated: 2026-10-21
 
 ## About The Author
 
